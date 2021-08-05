@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @jeamon currently working at [AppDyamics](https://github.com/Appdynamics) inside [Cisco Systems](https://github.com/cisco).
+* 👋 Hi, I’m @jeamon currently playing into millions of SLOC as a PRE (Product Reliability Engineer) at [AppDyamics](https://github.com/Appdynamics) inside [Cisco Systems](https://github.com/cisco).
 * 👀 I’m interested in Backend Developer Position Golang / NetDevOps / Python or SRE. My rich brain is very expensive - think well before.
 * 🌱 I’m always learning new techs stack mainly into backend systems design & developement and cloud native networking.
 * 🌱 I’m on some spare time teaching / mentoring people into coding and building my own [online learning platform](https://learn.cloudmentor-scale.com).
