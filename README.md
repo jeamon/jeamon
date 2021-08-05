@@ -5,7 +5,7 @@
 * 💞️ I’m looking to collaborate on any great Open Source Software Projects which involve networking & software aspects. I am a doer. 
 * 🔥 Enjoy some of my networked [Android apps](https://apps.cloudmentor-scale.com) for free. There is a pure Chat apps named ConfChat there to use for fun.
 * 🔥 You are a ninja at networking then assess your skills with the apps for free. There is a [reactive web version](https://quiz.cloudmentor-scale.com) here as well. Enjoy at scale.
-* 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/jeromeamon/) or via the contact form from my blog [contact](https://blog.cloudmentor-scale.com/contact) or via [twitter](https://twitter.com/jerome_amon)
+* 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/jeromeamon/) or via the contact form from my blog [contact](https://blog.cloudmentor-scale.com/contact) or via [twitter](https://twitter.com/jerome_amon) I am sleep rarely - so don't hesitate at anytime :]
 
 <!---
 jeamon/jeamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
