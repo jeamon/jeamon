@@ -1,5 +1,5 @@
 * 👋 Hi, I’m Jerome currently playing into millions of SLOC as a Product Reliability Engineer at [AppDyamics](https://github.com/Appdynamics) inside [Cisco Systems](https://github.com/cisco).
-* 👀 I’m interested in Backend Developer Position Golang / DevOps / Python or SRE. My rich brain is very expensive - think well before.
+* 👀 I’m interested in Backend Developer Position Golang / Python / DevOps/SRE. I have strong background into others languages.
 * 🌱 I’m always learning new techs stack mainly into backend systems design & developement and cloud native networking.
 * 🌱 I’m on some spare time teaching / mentoring people into coding and building my own [online learning platform](https://learn.cloudmentor-scale.com).
 * 💞️ I can collaborate on any great Open Source Software Projects which involve networking & software aspects. I am a doer. 
