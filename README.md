@@ -5,7 +5,7 @@
 * 💞️ I can collaborate on any great Open Source Software Projects which involve networking & software aspects. I am a doer. 
 * 🔥 Enjoy some of my networked [Android apps](https://apps.cloudmentor-scale.com) for free. There is a pure Chat apps named [ConfChat](https://play.google.com/store/apps/details?id=com.amon.ChatAtScaleMobile) there to use for fun.
 * 🔥 If you are a network ninja then assess your kungfu with [this apps](https://play.google.com/store/apps/details?id=com.amon.netskillschallenger) for free. There is a [reactive web version](https://quiz.cloudmentor-scale.com) here as well. Enjoy.
-* 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/jeromeamon/) or via the [contact form](https://blog.cloudmentor-scale.com/contact) from my [crafted blog](https://blog.cloudmentor-scale.com/) or via [twitter](https://twitter.com/jerome_amon).  // *I rarely sleep - so don't hesitate at anytime :]*
+* 📫 Get in touch : [Linkedin](https://www.linkedin.com/in/jeromeamon/) or by the [contact form](https://blog.cloudmentor-scale.com/contact) from my [crafted blog](https://blog.cloudmentor-scale.com/) or by [twitter](https://twitter.com/jerome_amon).  // *I rarely sleep - so don't hesitate at anytime :]*
 
 <!---
 jeamon/jeamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
