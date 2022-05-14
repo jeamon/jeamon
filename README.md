@@ -1,4 +1,4 @@
-* 👋 Hi, I’m Jerome currently gophing by building scalable & testable backend systems at Complero GmbH into a role of Go FullStack Developer.
+* 👋 Hi, I’m Jerome currently gophing by building scalable & testable backend systems at Complero GmbH as a Go FullStack Developer.
 * 👀 I was previously playing into millions of SLOC as a Product Reliability Engineer at [AppDyamics](https://github.com/Appdynamics) inside [Cisco Systems](https://github.com/cisco).
 * 👀 I’m interested in Backend Developer Position Golang. I have strong background into others languages (Python - Java etc).
 * 🌱 I’m always learning new techs stack mainly into backend systems design & developement and cloud native networking.
