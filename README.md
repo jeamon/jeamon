@@ -8,7 +8,7 @@
 * 🔥 If you are a network ninja then assess your kungfu with [this apps](https://play.google.com/store/apps/details?id=com.amon.netskillschallenger) for free. There is a [reactive web version](https://quiz.cloudmentor-scale.com) here as well. Enjoy.
 * 📫 Get in touch : [Linkedin](https://www.linkedin.com/in/jeromeamon/) or by the [contact form](https://blog.cloudmentor-scale.com/contact) from my [crafted blog](https://blog.cloudmentor-scale.com/) or by [twitter](https://twitter.com/jerome_amon).  // *I rarely sleep - so don't hesitate at anytime :]*
 <h1 align="center">
-  <a target="_blank" href="https://github.com/jeamon">
+  <a target="_blank" href="https://github.com/jeamon?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeamon&show_icons=true&theme=dracula&count_private=true&hide_rank=true&hide=contribs,issues,prs" />
   </a>
 </h1>
