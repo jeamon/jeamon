@@ -1,5 +1,6 @@
-* 👋 Hi, I’m Jerome currently building scalable backend systems at techs startup and now at [SauceLabs](https://saucelabs.com/) as Go Backend Engineer.
-* 🔥 I was previously playing into millions of SLOC as a Product Reliability Engineer at [AppDynamics](https://github.com/Appdynamics) inside [Cisco Systems](https://github.com/cisco).
+* 👋 Hi, I’m Jerome currently building scalable high throughput packets parser and backend processing microservices at techs startup as Senior Go Backend Engineer.
+* 🔥 I was previously building scalable backend systems at techs startup like at [SauceLabs](https://saucelabs.com/) as Go Backend Engineer.
+* 🔥 Previously playing into millions of SLOC as a Product Reliability Engineer at [AppDynamics](https://github.com/Appdynamics) inside [Cisco Systems](https://github.com/cisco).
 * 👀 Interested in Backend or Systems Developer roles using Go. I have strong background into others languages Python / Java.
 * 🌱 I’m always learning new techs stack mainly into backend systems design & developement and cloud native networking.
 * 🌱 I’m on some spare time teaching / mentoring people into coding and building my own [online learning platform](https://learn.cloudmentor-scale.com).
