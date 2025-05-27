@@ -1,4 +1,4 @@
-* 👋 Hi, I’m Jerome architecting scalable high throughput call-recorders and real-time backend microservices at [Corti AI](https://www.corti.ai/api) as Senior Go Engineer.
+* 👋 Hi, I’m Jerome architecting high-throughput call-recorders and real-time backend microservices at [Corti AI](https://www.corti.ai/api) as Senior Go Engineer.
 * 🔥 I was previously building scalable backend systems at techs startup like at [SauceLabs](https://saucelabs.com/) as Go Backend Engineer.
 * 🔥 Previously playing into millions of SLOC as a Product Reliability Engineer at [AppDynamics](https://github.com/Appdynamics) inside [Cisco Systems](https://github.com/cisco).
 * 👀 Interested in Backend or Systems Developer roles using Go. I have strong background into others languages Python / Java.
